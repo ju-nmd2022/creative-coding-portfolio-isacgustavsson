@@ -6,7 +6,7 @@ function setup() {
 function draw() {
   background(34, 39, 46, 40);
   noStroke();
-  fill(108, 182, 255);
+  fill(188, 12, 255);
 
   push();
   translate(width / 2, height / 2);
