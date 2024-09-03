@@ -1,5 +1,10 @@
 [
   {
+    "file": "experiments/ex01.js",
+    "name": "Weird Flower Experiment",
+    "description": "Made with the help of a tutorial made by Pierre Paslier which can be found here: https://www.generativehut.com/post/kinetic-generative-art-tutorial"
+  },
+  {
     "file": "experiments/grid.js",
     "name": "Flow Field Experiment",
     "description": "Made with the help of a tutorial made by Barney Codes on youtube which can be found here:https://www.youtube.com/watch?v=sZBfLgfsvSk"
