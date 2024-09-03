@@ -1,7 +1,12 @@
 [
   {
-    "file": "experiments/example.js",
-    "name": "Name of your experiment",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+    "file": "experiments/grid.js",
+    "name": "Flow Field Experiment",
+    "description": "Made with the help of a tutorial made by Barney Codes on youtube which can be found here:https://www.youtube.com/watch?v=sZBfLgfsvSk"
+  },
+  {
+    "file": "experiments/cloudy.js",
+    "name": "Perlin Noise Experiment",
+    "description": "Made with the help of a tutorial made by Steve's MakerSpace on Youtube https://www.youtube.com/watch?v=9LmeyvbforA"
   }
 ]
