@@ -15,12 +15,12 @@
     "description": "Made with the help of a tutorial made by Barney Codes on youtube which can be found here:https://www.youtube.com/watch?v=sZBfLgfsvSk"
   },
   {
-    "file": "experiments/lerp.js",
+    "file": "experiments/lerp00.js",
     "name": "Lerp Experiment",
     "description": "Made with the help of a tutorial made by necessarydisorder which can be found here: https://necessarydisorder.wordpress.com/2017/11/15/drawing-from-noise-and-then-making-animated-loopy-gifs-from-there/"
   },
   {
-    "file": "experiments/orb.js",
+    "file": "experiments/lerp01.js",
     "name": "Lerp Experiment",
     "description": "Made with the help of a tutorial made by necessarydisorder which can be found here: https://necessarydisorder.wordpress.com/2017/11/15/drawing-from-noise-and-then-making-animated-loopy-gifs-from-there/"
   },
