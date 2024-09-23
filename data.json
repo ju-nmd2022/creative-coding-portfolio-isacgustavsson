@@ -1,11 +1,36 @@
 [
   {
-    "file": "experiments/ex01.js",
+    "file": "experiments/flowfield02.js",
+    "name": "Cursed Trajectories",
+    "description": "Made with the help of a tutorial made by Barney Codes on youtube which can be found here:https://www.youtube.com/watch?v=sZBfLgfsvSk"
+  },
+  {
+    "file": "experiments/lerp02.js",
+    "name": "Glitch Snake",
+    "description": "Made with the help of a tutorial made by necessarydisorder which can be found here: https://necessarydisorder.wordpress.com/2017/11/15/drawing-from-noise-and-then-making-animated-loopy-gifs-from-there/"
+  },
+  {
+    "file": "experiments/flowfield01.js",
+    "name": "Flow Field Experiment Variation",
+    "description": "Made with the help of a tutorial made by Barney Codes on youtube which can be found here:https://www.youtube.com/watch?v=sZBfLgfsvSk"
+  },
+  {
+    "file": "experiments/lerp.js",
+    "name": "Lerp Experiment",
+    "description": "Made with the help of a tutorial made by necessarydisorder which can be found here: https://necessarydisorder.wordpress.com/2017/11/15/drawing-from-noise-and-then-making-animated-loopy-gifs-from-there/"
+  },
+  {
+    "file": "experiments/orb.js",
+    "name": "Lerp Experiment",
+    "description": "Made with the help of a tutorial made by necessarydisorder which can be found here: https://necessarydisorder.wordpress.com/2017/11/15/drawing-from-noise-and-then-making-animated-loopy-gifs-from-there/"
+  },
+  {
+    "file": "experiments/flower.js",
     "name": "Weird Flower Experiment",
     "description": "Made with the help of a tutorial made by Pierre Paslier which can be found here: https://www.generativehut.com/post/kinetic-generative-art-tutorial"
   },
   {
-    "file": "experiments/grid.js",
+    "file": "experiments/flowfield00.js",
     "name": "Flow Field Experiment",
     "description": "Made with the help of a tutorial made by Barney Codes on youtube which can be found here:https://www.youtube.com/watch?v=sZBfLgfsvSk"
   },
