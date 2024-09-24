@@ -1,42 +1,48 @@
 [
   {
-    "file": "experiments/flowfield02.js",
+    "file": "experiments/sound.js",
+    "name": "Shuttles",
+    "description": "Made this with some help from chatGPT. "
+  },
+
+  {
+    "file": "experiments/cursed.js",
     "name": "Cursed Trajectories",
     "description": "Made with the help of a tutorial made by Barney Codes on youtube which can be found here:https://www.youtube.com/watch?v=sZBfLgfsvSk"
   },
   {
-    "file": "experiments/lerp02.js",
+    "file": "experiments/glitchSnake.js",
     "name": "Glitch Snake",
     "description": "Made with the help of a tutorial made by necessarydisorder which can be found here: https://necessarydisorder.wordpress.com/2017/11/15/drawing-from-noise-and-then-making-animated-loopy-gifs-from-there/"
   },
   {
-    "file": "experiments/flowfield01.js",
-    "name": "Flow Field Experiment Variation",
+    "file": "experiments/Matrix.js",
+    "name": "Flow Field Inspired by The Matrix",
     "description": "Made with the help of a tutorial made by Barney Codes on youtube which can be found here:https://www.youtube.com/watch?v=sZBfLgfsvSk"
   },
   {
-    "file": "experiments/lerp00.js",
-    "name": "Lerp Experiment",
+    "file": "experiments/weaver.js",
+    "name": "Weaver",
     "description": "Made with the help of a tutorial made by necessarydisorder which can be found here: https://necessarydisorder.wordpress.com/2017/11/15/drawing-from-noise-and-then-making-animated-loopy-gifs-from-there/"
   },
   {
-    "file": "experiments/lerp01.js",
-    "name": "Lerp Experiment",
+    "file": "experiments/lerper.js",
+    "name": "Lerper",
     "description": "Made with the help of a tutorial made by necessarydisorder which can be found here: https://necessarydisorder.wordpress.com/2017/11/15/drawing-from-noise-and-then-making-animated-loopy-gifs-from-there/"
   },
   {
     "file": "experiments/flower.js",
-    "name": "Weird Flower Experiment",
+    "name": "Weird Flower",
     "description": "Made with the help of a tutorial made by Pierre Paslier which can be found here: https://www.generativehut.com/post/kinetic-generative-art-tutorial"
   },
   {
-    "file": "experiments/flowfield00.js",
-    "name": "Flow Field Experiment",
-    "description": "Made with the help of a tutorial made by Barney Codes on youtube which can be found here:https://www.youtube.com/watch?v=sZBfLgfsvSk"
+    "file": "experiments/COP.js",
+    "name": "Colour Out of Space",
+    "description": "Flow Field Experiment made with the help of a tutorial made by Barney Codes on youtube which can be found here:https://www.youtube.com/watch?v=sZBfLgfsvSk"
   },
   {
     "file": "experiments/cloudy.js",
-    "name": "Perlin Noise Experiment",
+    "name": "Cloudy",
     "description": "Made with the help of a tutorial made by Steve's MakerSpace on Youtube https://www.youtube.com/watch?v=9LmeyvbforA"
   }
 ]

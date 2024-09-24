@@ -11,7 +11,7 @@ function setup() {
 
 function draw() {
   blendMode(NORMAL);
-  background(255);
+  background(0);
   translate(width / 2, height / 2);
 
   for (let i = 0; i < pendulumCount; i++) {
@@ -21,7 +21,7 @@ function draw() {
 
   push();
   noStroke();
-  blendMode(DIFFERENCE);
+  blendMode(EXCLUSION);
   fill(20, 135, 120, 180);
   ellipse(0, 0, 100, 100);
   push();
@@ -49,6 +49,7 @@ class Pendulum {
 
     push();
     rotate(this.rotation);
+    stroke(255, 100);
     line(x, y, 50, 10);
     fill(0);
     this.rotation += x * y * this.noise;
