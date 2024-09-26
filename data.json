@@ -1,24 +1,15 @@
 [
   {
-    "file": "experiments/VM2.js",
-    "name": "Ant Farm",
-    "description": "Based on the Tiled Lines artwork source code made for the Commodore 64."
-  },
-  {
-    "file": "experiments/VM1.js",
-    "name": "Tiled Lines",
-    "description": "Based on the Tiled Lines artwork source code made for the Commodore 64."
+    "file": "experiments/cursed.js",
+    "name": "Cursed Trajectories",
+    "description": "Made with the help of a tutorial made by Barney Codes on youtube which can be found here:https://www.youtube.com/watch?v=sZBfLgfsvSk"
   },
   {
     "file": "experiments/sound.js",
     "name": "Shuttles",
     "description": "Made this with some help from chatGPT. "
   },
-  {
-    "file": "experiments/cursed.js",
-    "name": "Cursed Trajectories",
-    "description": "Made with the help of a tutorial made by Barney Codes on youtube which can be found here:https://www.youtube.com/watch?v=sZBfLgfsvSk"
-  },
+
   {
     "file": "experiments/glitchSnake.js",
     "name": "Glitch Snake",
@@ -58,5 +49,15 @@
     "file": "experiments/VM3.js",
     "name": "QR Code",
     "description": "Based on the Tiled Lines artwork source code made for the Commodore 64."
+  },
+  {
+    "file": "experiments/VM2.js",
+    "name": "Ant Farm",
+    "description": "Based on the Tiled Lines artwork source code made for the Commodore 64."
+  },
+  {
+    "file": "experiments/VM1.js",
+    "name": "Tiled Lines",
+    "description": "Recreation of the Tiled Lines artwork source code made for the Commodore 64."
   }
 ]
