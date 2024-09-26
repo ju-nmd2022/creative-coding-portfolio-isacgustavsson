@@ -1,10 +1,19 @@
 [
   {
+    "file": "experiments/VM2.js",
+    "name": "Ant Farm",
+    "description": "Based on the Tiled Lines artwork source code made for the Commodore 64."
+  },
+  {
+    "file": "experiments/VM1.js",
+    "name": "Tiled Lines",
+    "description": "Based on the Tiled Lines artwork source code made for the Commodore 64."
+  },
+  {
     "file": "experiments/sound.js",
     "name": "Shuttles",
     "description": "Made this with some help from chatGPT. "
   },
-
   {
     "file": "experiments/cursed.js",
     "name": "Cursed Trajectories",
@@ -44,5 +53,10 @@
     "file": "experiments/cloudy.js",
     "name": "Cloudy",
     "description": "Made with the help of a tutorial made by Steve's MakerSpace on Youtube https://www.youtube.com/watch?v=9LmeyvbforA"
+  },
+  {
+    "file": "experiments/VM3.js",
+    "name": "QR Code",
+    "description": "Based on the Tiled Lines artwork source code made for the Commodore 64."
   }
 ]
